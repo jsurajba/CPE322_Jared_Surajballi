@@ -4,12 +4,9 @@
 **Some bold text**
 _Some italic text_
 
-Some commands:
-```
-git status
-git add
-git commit
-```
+A command (block style):
+
+> git status
 
 Some classes:
 1. CPE322
